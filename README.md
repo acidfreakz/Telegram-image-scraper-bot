@@ -1,3 +1,10 @@
 # Telegram-image-scraper-bot
 
-[![TELEGRAM CHANNEL](http://icons.iconarchive.com/icons/froyoshark/enkel/128/Telegram-icon.png)](https://t.me/hdqwallbot)
+
+
+
+
+<div id="badges">
+  <a href="https://t.me/hdqwallbot">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
